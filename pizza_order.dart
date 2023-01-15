@@ -1,8 +1,5 @@
-void main(List<String> args) {
-  const order = ['vegetarian', 'pepperoni'];
-
-  var totalPrice = pizzaCheck(order);
-  print("Rotal Price: $totalPrice");
+class Pizza{
+ 
 }
 
 double pizzaCheck(List orderList) {
